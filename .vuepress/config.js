@@ -119,18 +119,27 @@ module.exports = {
      * valine 设置 (if you need valine comment https://valine.js.org)
      */
 
-    valineConfig: {
-      appId: 'bHmo0i902HKNBRJawFHbQanC-gzGzoHsz',
-      appKey: '7BhtmrN68Mwi7tpI0AgGVSCD',
-      //showComment: true,
-      placeholder: 'To leave a comment. Styling with Markdown is supported.', //# comment box placeholder
-      avatar: 'robohash', // (''/mp/identicon/monsterid/wavatar/robohash/retro/hide)
-      // meta: nick,mail,link # custom comment header
-      // pageSize: 10 # pagination size
-      lang: 'zh-CN', //zh-CN,en
-      visitor: true, //# Article reading statistic https://valine.js.org/visitor.html
+    // valineConfig: {
+    //   appId: 'bHmo0i902HKNBRJawFHbQanC-gzGzoHsz',
+    //   appKey: '7BhtmrN68Mwi7tpI0AgGVSCD',
+    //   //showComment: true,
+    //   placeholder: 'To leave a comment. Styling with Markdown is supported.', //# comment box placeholder
+    //   avatar: 'robohash', // (''/mp/identicon/monsterid/wavatar/robohash/retro/hide)
+    //   // meta: nick,mail,link # custom comment header
+    //   // pageSize: 10 # pagination size
+    //   lang: 'zh-CN', //zh-CN,en
+    //   visitor: true, //# Article reading statistic https://valine.js.org/visitor.html
 
-    },
+    // },
+    vssueConfig: {
+      platform: 'github',
+      baseURL: 'https://github.com',
+      owner: 'gerryge',
+      repo: 'kb',
+      clientId: 'fb78238aa7043b55e4aa',
+      clientSecret: '957cc00039fad81fcab759303d2e42e7bda30a93',
+      locale: 'zh'
+    }
   },
   markdown: {
     lineNumbers: true
