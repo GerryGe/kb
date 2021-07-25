@@ -1,6 +1,6 @@
 ---
 title: 博客模板
-date: 2021-07-17
+date: 2021-07-25
 author: Gerry Ge
 tags:
  - ABP
@@ -12,8 +12,9 @@ sidebar: 'auto'
 sticky: 1
 publish: false
 prev: false
-next: ./02_What_Is_DDD
+next: ./2021/di
 ---
+
 ::: tip
 简介
 :::
