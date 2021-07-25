@@ -73,7 +73,7 @@ next: ./07_Reference_Books
 
 
 
-#### **示例：在领域服务中创建新组织**
+**示例：在领域服务中创建新组织**
 
 ```csharp
 public class OrganizationManager : DomainService
@@ -128,7 +128,7 @@ public class OrganizationManager : DomainService
 
 
 
-#### **示例：在应用程序服务中创建新组织**
+**示例：在应用程序服务中创建新组织**
 
 ```csharp
 public class OrganizationAppService : ApplicationService
@@ -201,7 +201,7 @@ public class OrganizationAppService : ApplicationService
 
 
 
-#### **示例：CRUD 操作**
+**示例：CRUD 操作**
 
 ```csharp
 public class IssueAppService
