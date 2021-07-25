@@ -156,7 +156,8 @@ module.exports = {
     }
   },
   markdown: {
-    lineNumbers: true
+    lineNumbers: true,
+    extractHeaders: ['h2', 'h3', 'h4']
   },
   plugins: [
     "vuepress-plugin-flowchart",

@@ -226,7 +226,7 @@ DDD **忽略报告**和批量查询。这并不意味着它们不重要。如果
 ::: warning
 作者：Gerry Ge
 
-出处：[https://gerryge.com/blogs/2021/Implementing_Domain_Driven_Design/03_Implementation_The_Big_Picture.html](https://gerryge.com/blogs/2021/Implementing_Domain_Driven_Design/03_Implementation_The_Big_Picture.html)
+出处：[实现领域驱动设计-实现：全景图](https://gerryge.com/blogs/2021/Implementing_Domain_Driven_Design/03_Implementation_The_Big_Picture.html)
 
 版权：本作品采用「[署名-非商业性使用-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-nc-sa/4.0/)」许可协议进行许可。
 

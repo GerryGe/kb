@@ -86,7 +86,7 @@ DDD 主要**关注领域和应用层**，而忽略了表示和基础设施。它
 ::: warning
 作者：Gerry Ge
 
-出处：[https://gerryge.com/blogs/2021/Implementing_Domain_Driven_Design/02_What_Is_DDD.html](https://gerryge.com/blogs/2021/Implementing_Domain_Driven_Design/02_What_Is_DDD.html)
+出处：[实现领域驱动设计-DDD是什么](https://gerryge.com/blogs/2021/Implementing_Domain_Driven_Design/02_What_Is_DDD.html)
 
 版权：本作品采用「[署名-非商业性使用-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-nc-sa/4.0/)」许可协议进行许可。
 
