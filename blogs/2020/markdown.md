@@ -134,3 +134,8 @@ e=>end: End
 cond(yes)->process->e
 cond(no)->e
 @flowend
+
+
+### Badge <Badge text="beta" type="warning"/> <Badge text="默认主题"/> <Badge text="exception" type="error"/> <Badge text="vertical middle" vertical="middle"/> 
+
+![image-20210726213832174](./markdown.assets/image-20210726213832174.png)
