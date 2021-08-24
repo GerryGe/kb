@@ -17,7 +17,8 @@ next: false
 ---
 
 ::: tip
-[官方](https://docs.abp.io/en/abp/4.2/Domain-Driven-Design-Implementation-Guide)原版电子书转载
+[官方原版](https://docs.abp.io/en/abp/4.2/Domain-Driven-Design-Implementation-Guide)电子书转载，中文翻译版请看 [实现领域驱动设计](https://gerryge.com/blogs/2021/Implementing_Domain_Driven_Design/01_Introduction.html) 
+
 :::
 <!-- more -->
 
